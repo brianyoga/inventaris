@@ -189,6 +189,10 @@ if (!empty($_SESSION['username'])) {
   <script src="dist/js/bootstrap.min.js"></script>
   <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
   <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
+  <br><br><br>
+    <footer>
+      <center><h4>CopyRight By <b>Brian Yoga Pradana | NO ABSEN 09</b></h4></center>
+    </footer>
 </body>
 
 </html>
